@@ -5,13 +5,15 @@ The advent of blockchain technology has revolutionized the way we think about tr
 
 Our framework leverages the principles of quantum computing and non-Euclidean geometries to provide a more scalable, efficient, and secure platform for executing smart contracts. The motivation behind this project is to harness the untapped potential of quantum computing and geometric topologies to overcome the limitations of existing platforms and push the boundaries of what's possible with smart contracts.
 
-In this paper, we will outline the vision, architecture, and implementation details of our quantum-geometric smart contract framework. We will delve into the specifics of quantum contract sharding, fractal contract compression, non-Euclidean cryptography, topological consensus mechanisms, and more. We will also discuss the unified mathematical and computational foundations underpinning our framework and provide a roadmap for its implementation.
+In this paper, we will outline the vision, architecture, and implementation details of our quasi-geometric smart contract framework. We will delve into the specifics of quantum contract sharding, fractal contract compression, non-Euclidean cryptography, topological consensus mechanisms, and more. We will also discuss the unified mathematical and computational foundations underpinning our framework and provide a roadmap for its implementation.
 
 # Background and Related Work
 
 ## Quantum Computing Fundamentals
 
 Quantum computing leverages the principles of quantum mechanics to process information. Unlike classical bits, which can be either 0 or 1, quantum bits (qubits) can exist in multiple states at once, thanks to a property known as superposition. This allows quantum computers to perform complex calculations much more efficiently than their classical counterparts. Another key principle of quantum computing is entanglement, which allows qubits that are entangled to be linked, such that the state of one qubit can instantly affect the state of another, regardless of the distance between them.
+
+*We must take this a step further into the realm of **Quasi***
 
 ## Non-Euclidean Geometries and Topology
 
@@ -27,7 +29,7 @@ Cryptographic primitives, such as hash functions and digital signatures, are ess
 
 # Architectural Overview
 
-Our quantum-geometric smart contract framework is built upon a unique blend of quantum computing principles and non-Euclidean geometries. It is designed to overcome the limitations of existing smart contract platforms and push the boundaries of what's possible with smart contracts.
+Our quasi-geometric smart contract framework is built upon a unique blend of quantum computing principles and non-Euclidean geometries. It is designed to overcome the limitations of existing smart contract platforms and push the boundaries of what's possible with smart contracts.
 
 ## High-Level Architecture
 
@@ -49,7 +51,9 @@ Our framework is underpinned by a unified mathematical and computational foundat
 
 # Quantum Contract Sharding
 
-Quantum Contract Sharding is a key component of our framework that leverages the principles of quantum computing to enhance the scalability and efficiency of smart contract execution.
+Quantum Contract Sharding is a key component of our framework that leverages the principles of quantum computing to enhance the scalability and efficiency of smart contract execution. 
+
+These enhanced smart contracts will be coined: ***Quasi Contracts***
 
 ## Qubit Allocation and Partitioning Strategies
 
@@ -161,11 +165,13 @@ Our framework leverages advanced computational frameworks and abstractions to im
 
 ## Unified Programming Language and Toolchain
 
-We have developed a unified programming language and toolchain specifically designed for our quantum-geometric smart contract framework. This language and toolchain provide developers with the tools they need to write, test, and deploy smart contracts on our platform.
+***We must develop a unified programming language and toolchain specifically designed for our quantum-geometric smart contract framework. This language and toolchain will provide developers with the tools they need to write, test, and deploy smart contracts on our platform.***
 
 # Implementation Roadmap
 
-The implementation of our quantum-geometric smart contract framework will be a complex and challenging task that requires careful planning and coordination. Here's our proposed roadmap:
+The implementation of our quantum-geometric smart contract framework will be a complex and challenging task that requires careful planning and coordination. 
+
+*Here's our proposed roadmap: TBA*
 
 ## Phased Development and Integration Plan
 
