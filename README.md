@@ -9,7 +9,7 @@ In this paper, we will outline the vision, architecture, and implementation deta
 
 # Background and Related Work
 
-## Quantum Computing Fundamentals
+## Computing Fundamentals
 
 Quantum computing leverages the principles of quantum mechanics to process information. Unlike classical bits, which can be either 0 or 1, quantum bits (qubits) can exist in multiple states at once, thanks to a property known as superposition. This allows quantum computers to perform complex calculations much more efficiently than their classical counterparts. Another key principle of quantum computing is entanglement, which allows qubits that are entangled to be linked, such that the state of one qubit can instantly affect the state of another, regardless of the distance between them.
 
@@ -103,11 +103,11 @@ Our framework employs hyperbolic key exchange protocols for secure communication
 
 In addition to key exchange, our framework also uses hyperbolic encryption and digital signature schemes. These schemes provide strong security guarantees, making it computationally infeasible for an attacker to decrypt a message or forge a signature without the appropriate keys.
 
-## Quantum-Resistant Hash Functions
+## Hash Functions
 
 Given the advent of quantum computers, our framework incorporates quantum-resistant hash functions. These hash functions are designed to be secure against attacks by quantum computers, ensuring the long-term security of our smart contract platform.
 
-## Quantum-Safe Blockchain Integration Strategies
+## Blockchain Integration Strategies
 
 Finally, our framework includes strategies for integrating our quantum-safe cryptography with existing blockchain platforms. These strategies ensure that our smart contracts can be executed securely on a variety of blockchain platforms, providing flexibility and interoperability.
 
@@ -131,11 +131,11 @@ Our framework incorporates advanced fault tolerance and malicious node mitigatio
 
 Finally, our framework integrates quantum entanglement to facilitate secure communication between nodes. This integration enhances the security of the consensus process and enables the execution of smart contracts in a secure and decentralized manner.
 
-# Quantum Circuit Execution and Transformation
+# Circuit Execution and Transformation
 
 Quantum Circuit Execution and Transformation is a critical component of our framework that handles the execution and transformation of smart contracts represented as quantum circuits.
 
-## Quantum Circuit Representation and Translation for Contracts
+## Circuit Representation and Translation for Contracts
 
 In our framework, smart contracts are represented as quantum circuits. These circuits are then translated into a form that can be executed on a quantum computer. This representation and translation process is designed to preserve the logic and functionality of the smart contracts while leveraging the computational power of quantum computing.
 
@@ -143,7 +143,7 @@ In our framework, smart contracts are represented as quantum circuits. These cir
 
 Our framework employs advanced qubit allocation and state encoding schemes. These schemes determine how the states of the smart contracts are encoded into the states of the qubits and how the qubits are allocated for the execution of the smart contracts.
 
-## Quantum Circuit Execution and Measurement Frameworks
+## Circuit Execution and Measurement Frameworks
 
 We have developed novel quantum circuit execution and measurement frameworks. These frameworks handle the execution of the quantum circuits and the measurement of the qubits to obtain the results of the smart contracts.
 
