@@ -203,8 +203,6 @@ We look forward to continuing our research in this exciting field and are eager 
 
 # References
 
-Please note that the references listed below are placeholders and should be replaced with the actual resources you've referenced in your yellow paper.
-
 1. Quantum Computing for Computer Scientists, Noson S. Yanofsky and Mirco A. Mannucci, Cambridge University Press, 2008.
 2. A Course in Computational Algebraic Number Theory, Henri Cohen, Springer, 1993.
 3. Quantum Computation and Quantum Information, Michael A. Nielsen and Isaac L. Chuang, Cambridge University Press, 2010.
